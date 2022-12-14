@@ -36,10 +36,10 @@ ___
 
 <pre>
 ├── <font color="#0000FF"><b>local_modules</b></font>
-│   ├── __init__.py
-│   ├── module1.py
-│   ├── module2.py
-│   └── module3.py
+│   ├── __init__.py
+│   ├── module1.py
+│   ├── module2.py
+│   └── module3.py
 │
 └── main.py
 </pre>
@@ -47,11 +47,11 @@ ___
 1. Place `pyCompressor.py` to the project folder and create `schema.json`
     <pre>
     ├── <font color="#0000FF">local_modules</b></font>
-    │   ├── __init__.py
-    │   ├── module1.py
-    │   ├── module2.py
-    │   ├── module3.py
-    │   └── module3.py
+    │   ├── __init__.py
+    │   ├── module1.py
+    │   ├── module2.py
+    │   ├── module3.py
+    │   └── module3.py
     |
     ├── main.py
     ├── pyCompressor.py
@@ -114,5 +114,3 @@ ___
 
 > There should be no functions and classes of the same name in the project.
 ___
-
-![telegram](zcxw_sudo.t.me)
