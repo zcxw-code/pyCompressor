@@ -1,7 +1,7 @@
 
 **pyCompressor**
 ---
-![https://zelenka.guru/members/2977610/](https://img.shields.io/badge/zcxw-lolz%20profile-%232BAD72)
+![![](https://img.shields.io/badge/zcxw-lolz%20profile-%232BAD72)](https://zelenka.guru/members/2977610/)
 
 ![https://github.com/zcxw-code/pyCompressor/releases](https://img.shields.io/github/downloads/zcxw-code/pyCompressor/total)
 ![https://github.com/zcxw-code/pyCompressor/blob/main/LICENSE](https://img.shields.io/github/license/zcxw-code/pyCompressor)
