@@ -3,6 +3,10 @@
 ---
 [![#](https://img.shields.io/badge/zcxw-zelenka.guru-%232BAD72)](https://zelenka.guru/members/2977610/)
 [![#](https://img.shields.io/badge/zcxw-telegram-%23259cd8)](https://zcxw_lolz.t.me/)
+<<<<<<< HEAD
+=======
+[![#](https://img.shields.io/github/downloads/zcxw-code/pyCompressor/total)](https://github.com/zcxw-code/pyCompressor/releases)
+>>>>>>> 532c745 (a)
 [![#](https://img.shields.io/github/license/zcxw-code/pyCompressor)](https://github.com/zcxw-code/pyCompressor/blob/main/LICENSE)
 [![#](https://img.shields.io/github/stars/zcxw-code/pyCompressor)](#)
 [![#](https://img.shields.io/github/forks/zcxw-code/pyCompressor)](https://github.com/zcxw-code/pyCompressor/fork)
@@ -113,3 +117,7 @@ ___
 
 > There should be no functions and classes of the same name in the project.
 ___
+<<<<<<< HEAD
+=======
+
+>>>>>>> 532c745 (a)
