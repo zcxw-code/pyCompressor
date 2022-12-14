@@ -1,0 +1,14 @@
+{
+    "files": [
+        
+        "./local_modules/__init__.py",
+        "./local_modules/module3.py",
+        "./local_modules/module2.py",
+        "./local_modules/module1.py",
+        "./main.py"  
+        
+    ],
+    "dirs": [
+        "local_modules"
+    ]
+}
