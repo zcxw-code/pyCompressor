@@ -1,11 +1,12 @@
 
 **pyCompressor**
 ---
-![GitHub all releases](https://img.shields.io/github/downloads/zcxw-code/pyCompressor/total)
-![GitHub](https://img.shields.io/github/license/zcxw-code/pyCompressor)
-![GitHub Repo stars](https://img.shields.io/github/stars/zcxw-code/pyCompressor)
-![GitHub forks](https://img.shields.io/github/forks/zcxw-code/pyCompressor)
-![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/zcxw-code/pyCompressor)
+![https://zelenka.guru/members/2977610/](https://img.shields.io/badge/zcxw-lolz%20profile-%232BAD72)
+
+![https://github.com/zcxw-code/pyCompressor/releases](https://img.shields.io/github/downloads/zcxw-code/pyCompressor/total)
+![https://github.com/zcxw-code/pyCompressor/blob/main/LICENSE](https://img.shields.io/github/license/zcxw-code/pyCompressor)
+![#](https://img.shields.io/github/stars/zcxw-code/pyCompressor)
+![https://github.com/zcxw-code/pyCompressor/fork](https://img.shields.io/github/forks/zcxw-code/pyCompressor)
 ___
 
 ## requirements
