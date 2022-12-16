@@ -118,7 +118,3 @@ ___
 
 > There should be no functions and classes of the same name in the project.
 ___
-<<<<<<< HEAD
-=======
-
->>>>>>> 532c745 (a)
