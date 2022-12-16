@@ -90,8 +90,9 @@ ___
     <font color="#00CD00">Code fix.</font>
     <font color="#00CD00">Code minify.</font>
     <font color="#00CD00">Code compress.</font>
-    <font color="#00CD00">Successfully! Files without compression: </font><font color="#00AA00"><b>968</b></font><font color="#008900"> bytes, and files compressed into a single file: </font><font color="#00AA00"><b>727</b></font><font color="#008900"> bytes.</font>
-    <font color="#00CD00">Code save. To </font><font color="#CD00CD">./example_compress//output.py</font>
+    <font color="#00CD00">Successfully! Files without compression: </font><font color="#00AA00"><b>968</b></font><font color="#008900"> bytes, and files compressed into a </font>
+    <font color="#008900">single file: </font><font color="#00AA00"><b>376</b></font><font color="#008900"> bytes.</font>
+    <font color="#00CD00">Code save. To </font>
     </pre>
 4. Test `python ./example_compress/output.py`
 

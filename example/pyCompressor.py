@@ -5,9 +5,9 @@
 
 import io
 import json
-import lzma
+import bz2
 import os
-
+import base64
 import autopep8
 import python_minifier
 from rich import print
@@ -58,8 +58,9 @@ class pyCompressor:
         return result
 
     def compress_data(self, data: str) -> str:
-        value = lzma.compress(data.encode('utf-8'))
-        return f'import lzma as g;exec(g.decompress({value}).decode("utf-8"))'
+        value = bz2.compress(data.encode('utf-8'))
+        value = base64.b64encode(value)
+        return self.minifier(f'import bz2 as g, base64;exec(g.decompress(base64.b64decode({value})).decode("utf-8"))')
 
     def run(self) -> None:
         main_data = ''
@@ -97,6 +98,5 @@ class pyCompressor:
 
 if __name__ == '__main__':
     print(banner)
-
     compressor = pyCompressor()
     compressor.run()
